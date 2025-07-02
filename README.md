@@ -17,7 +17,7 @@ Personal GitHub portfolio of Rohith H Y – ECE Engineer | Full-Stack Developer 
 
 - 📫 Reach out to me at **rohithhyn@gmail.com**
 
-<h3 align="left">GitHub Stats:</h3>
+
 <div>
 
 <p>&nbsp;<img align="center" src="https://github.com/RohithHY/Rohith-HY/edit/main/README.md" /></p>
